@@ -1,7 +1,5 @@
 # 👋 Sem *Tine* — računalniški navdušenec
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1n3core&layout=compact)
-
 ## 🚀 O meni
 Sem dijak računskih smeri; z veseljem se ukvarjam z nizko-nivojskim programiranjem, sistemi in grafiko.
 
