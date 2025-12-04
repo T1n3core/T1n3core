@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Sem *Tine* — računalniški navdušenec
 
-<!--
-**T1n3core/T1n3core** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1n3core&layout=compact)
 
-Here are some ideas to get you started:
+## 🚀 O meni
+Sem dijak računskih smeri; z veseljem se ukvarjam z nizko-nivojskim programiranjem, sistemi in grafiko.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tehnologije
+- **Jeziki:** C, C++, Python, Java
+- **Orodja:** Git, CMake, Clang, Neovim
+- **Interesi:** operacijski sistemi, računalniška grafika
+
+## 💼 Projekti
+- [ShIT](https://github.com/T1n3core/ShIT) — vaja za razumevanje git internals  
+- [learning-opengl](https://github.com/T1n3core/learning-opengl) — učna vaja z GLFW + GLAD
+
+## 📫 Kontakt
+- GitHub: [T1n3core](https://github.com/T1n3core)  
+- Email: tine.stakul@gmail.com
+
+---
+⭐ Če želiš, si oglej pinned repozitorije na mojem profilu.
