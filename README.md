@@ -9,7 +9,7 @@ Sem dijak računskih smeri; z veseljem se ukvarjam z nizko-nivojskim programiran
 - **Interesi:** operacijski sistemi, računalniška grafika
 
 ## 💼 Projekti
-- [ShIT](https://github.com/T1n3core/ShIT) — vaja za razumevanje git internals  
+- [shit](https://github.com/T1n3core/ShIT) — vaja za razumevanje git internals  
 - [learning-opengl](https://github.com/T1n3core/learning-opengl) — učna vaja z GLFW + GLAD
 
 ## 📫 Kontakt
